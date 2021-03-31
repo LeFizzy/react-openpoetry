@@ -26,7 +26,7 @@ const AddPoem = (props) => {
 
     return (
         <div className={styles.reactopenpoetryaddpoem}>
-            <h3>1. {(props.heading) ? props.heading1 : "Add the poem you are about to learn/practice."}</h3>
+            <h3>1. {(props.heading1) ? props.heading1 : "Add the poem you are about to learn/practice."}</h3>
             <p className={styles.reactopenpoetryslogan}>{(props.helper) ? props.helper : "Try to split the poem for each verse."}</p>
 
             <div className={styles.reactopenpoetryaddpoeminputwrapper + " " + styles.reactopenpoetrymargin2}>
