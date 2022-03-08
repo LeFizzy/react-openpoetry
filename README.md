@@ -39,4 +39,4 @@ class Example extends Component {
 
 ## License
 
-GPL-3.0 © [Milan Zeisler](https://github.com/lefizzy)
+GPL-3.0 © [https://github.com/lefizzy](https://github.com/lefizzy)
